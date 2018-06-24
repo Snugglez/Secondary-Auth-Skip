@@ -1,0 +1,11 @@
+{
+"defs": {
+"C_SECOND_PASSWORD_AUTH": 1,
+"S_REQUEST_SECOND_PASSWORD_AUTH": 1
+},
+  "files": {
+    "code.json": {"overwrite": false, "hash": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"},
+    "index.js": "10fdc16d5613105e67aaccd26fced94409693259792f42d8d19f35695341a27a",
+    "README.md": "89383d01934a3854053c2e639eb9c1a2e1dd4722f082981e2794d02fc7f80aa1"
+  }
+}
