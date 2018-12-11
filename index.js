@@ -1,9 +1,7 @@
 const	path = require('path'),
 		fs = require('fs')
 module.exports = function aks(dispatch) {
-try {
-hash = require('./code.json')}
-catch(e) {}
+let hash = require('./code.json')
 function saveJson() {
 fs.writeFileSync(path.join(__dirname, 'code.json'), JSON.stringify(hash));
 }
